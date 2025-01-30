@@ -4,7 +4,6 @@ Hi! I'm **Stephen**, a Year 1 student at the University of the West Indies. I'm 
 
 ## Interests
 - Programming in C++, Java, Kotlin
-- Learning about machine learning and AI
 - Developing fun and useful projects
 - Game Development
 
