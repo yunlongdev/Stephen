@@ -1,6 +1,6 @@
 # About Me
 
-Hi! I'm **Stephen**, a Year 1 student at the University of the West Indies. I'm currently studying Computer Science and exploring the world of programming and technology.
+Hi! I'm a Year 2 student at the University of the West Indies. I'm currently studying Computer Science and exploring the world of programming and technology.
 
 ## Interests
 - Programming in C++, Java, Kotlin
